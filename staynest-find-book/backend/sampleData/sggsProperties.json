@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Sunshine PG - Near SGGS Vishnupuri",
+    "description": "Premium PG with all amenities. 5 min walk from SGGS main gate. Well-furnished rooms with AC, WiFi, and 24/7 water supply. Safe and secure for students.",
+    "address": "Plot No. 12, Vishnupuri Colony, Near SGGS College, Nanded - 431606",
+    "location": { "lat": 19.145, "lng": 77.310 },
+    "collegeName": "SGGS Nanded",
+    "distanceFromCollege": "5 min walk",
+    "amenities": ["WiFi", "AC", "Parking", "Food", "Security", "Study Table"],
+    "roomTypes": [
+      { "type": "Single", "price": 8000, "totalRooms": 10, "availableRooms": 4, "isFoodIncluded": false },
+      { "type": "Double", "price": 5000, "totalRooms": 15, "availableRooms": 6, "isFoodIncluded": false }
+    ],
+    "rules": ["No smoking", "No alcohol", "10 PM curfew"],
+    "isVerified": true
+  },
+  {
+    "name": "Green Valley Hostel - Near CIDCO Nanded",
+    "description": "Spacious rooms with beautiful garden view. 10 min auto ride from SGGS. Hygienic food available. Ideal for SGGS students.",
+    "address": "Sector 8, CIDCO Nanded, Near SGGS College, Nanded - 431606",
+    "location": { "lat": 19.135, "lng": 77.325 },
+    "collegeName": "SGGS Nanded",
+    "distanceFromCollege": "10 min auto",
+    "amenities": ["WiFi", "TV", "Garden", "Parking", "Food", "Washing Machine"],
+    "roomTypes": [
+      { "type": "Single", "price": 7000, "totalRooms": 8, "availableRooms": 3, "isFoodIncluded": true },
+      { "type": "Double", "price": 4500, "totalRooms": 12, "availableRooms": 5, "isFoodIncluded": true }
+    ],
+    "rules": ["No smoking", "Quiet hours 10 PM - 6 AM"],
+    "isVerified": true
+  },
+  {
+    "name": "Sai PG - Taramandal SGGS Area",
+    "description": "Affordable PG with good food. 15 min walk from SGGS. Ideal for budget-conscious students.",
+    "address": "Taramandal Colony, Nanded - 431606",
+    "location": { "lat": 19.125, "lng": 77.315 },
+    "collegeName": "SGGS Nanded",
+    "distanceFromCollege": "15 min walk",
+    "amenities": ["WiFi", "Food", "Security", "Water Purifier"],
+    "roomTypes": [
+      { "type": "Single", "price": 6000, "totalRooms": 6, "availableRooms": 2, "isFoodIncluded": true },
+      { "type": "Double", "price": 4000, "totalRooms": 10, "availableRooms": 4, "isFoodIncluded": true }
+    ],
+    "rules": ["No smoking", "Keep clean"],
+    "isVerified": true
+  }
+]

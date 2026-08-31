@@ -1,0 +1,87 @@
+# ============================================
+# NODE MODULES
+# ============================================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# ============================================
+# ENVIRONMENT VARIABLES
+# ============================================
+.env
+.env.local
+.env.production
+.env.development
+.env.test
+
+# ============================================
+# BUILD OUTPUTS
+# ============================================
+dist/
+build/
+*.tgz
+*.tar.gz
+*.zip
+
+# ============================================
+# IDE & EDITOR FILES
+# ============================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ============================================
+# BACKEND SPECIFIC
+# ============================================
+backend/uploads/
+backend/node_modules/
+backend/.env
+backend/package-lock.json
+
+# ============================================
+# FRONTEND SPECIFIC
+# ============================================
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/package-lock.json
+frontend/.vite/
+frontend/src/vite-env.d.ts
+
+# ============================================
+# LOGS
+# ============================================
+logs/
+*.log
+npm-debug.log*
+
+# ============================================
+# TEMPORARY FILES
+# ============================================
+tmp/
+temp/
+*.tmp
+*.temp
+
+# ============================================
+# COVERAGE & TEST
+# ============================================
+coverage/
+.nyc_output/
+.coveralls.yml
+
+# ============================================
+# MISC
+# ============================================
+*.iml
+*.class
+.DS_Store
+**/.DS_Store
